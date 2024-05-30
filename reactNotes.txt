@@ -1,0 +1,17 @@
+react : for single page applications
+introducing JXS (it is 99% html.):
+functions based components (new trend)
+class based components
+
+JXS fragment:  
+<>
+</>
+
+Props:
+PropTypes:
+
+state:
+
+
+react router:
+why to use react router?
